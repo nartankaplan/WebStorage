@@ -2,7 +2,7 @@
 A basic shopping web page with some DOM manipulations and local storage.
 
 # Task
-During my internship, I was given the task that should include followings below: 
+During my internship, I was given the task that should include followings:
 
 Create a web application that allows users to add and remove items from a list and view the details of the items in the list.
 
@@ -32,7 +32,7 @@ Add a search function for the items, allowing users to search within the list.
 
 Before getting into demo project, we need to examine some basics about web storage
 
-![image](https://github.com/user-attachments/assets/b291dc7d-fe1b-4b9d-bd92-1c68fae4ab4b)
+![image](https://github.com/user-attachments/assets/789f0cf5-7a26-46dd-90e5-c90d9242544a)
 
 Both have same methods.
 
